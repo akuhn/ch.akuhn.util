@@ -1,4 +1,3 @@
-
 package ch.akuhn.util;
 
 import java.util.Iterator;
@@ -54,7 +53,7 @@ import java.util.NoSuchElementException;
  *}
  *</pre>
  * <p>
- * <b>Example 3:</b> Yields all perutations of an array.
+ * <b>Example 3:</b> Yields all permutations of an array.
  * 
  *<pre>
  *public static &lt;T&gt; Generator&lt;T[]&gt; permute(final T[] a) {
